@@ -13,3 +13,5 @@ brew install fontforge --with-python
 brew install eot-utils
 gem install fontcustom
 brew install rethinkdb
+
+brew cask install google-cloud-sdk
